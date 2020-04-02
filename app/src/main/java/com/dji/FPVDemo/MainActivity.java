@@ -251,7 +251,7 @@ public class MainActivity extends Activity implements SurfaceTextureListener,OnC
                 //TODO
                 //Switch Camera mode to Boof CV
                 showToast("Switching to BoofCV mode");
-                Camera.
+                //Camera.
                // switchCameraMode(SettingsDefinitions.CameraMode.RECORD_VIDEO);
                 break;
             }

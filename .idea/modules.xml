@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Android-FPVDemo-master-FPVDemo.iml" filepath="$PROJECT_DIR$/Android-FPVDemo-master-FPVDemo.iml" group="FPVDemo" />
       <module fileurl="file://$PROJECT_DIR$/FPVDemo.iml" filepath="$PROJECT_DIR$/FPVDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/FPVDemo-app.iml" filepath="$PROJECT_DIR$/app/FPVDemo-app.iml" group="FPVDemo/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/honors_drone_research.iml" filepath="$PROJECT_DIR$/honors_drone_research.iml" group="honors_drone_research" />
+      <module fileurl="file://$PROJECT_DIR$/app/honors_drone_research-app.iml" filepath="$PROJECT_DIR$/app/honors_drone_research-app.iml" group="honors_drone_research/app" />
     </modules>
   </component>
 </project>
