@@ -1,1 +1,0 @@
-# honors_drone_research
